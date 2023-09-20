@@ -19,9 +19,9 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 ## 
 
 ## Tecnologias Utilizadas
-- ´´GitHub´´
-- ´´HTML 5´´
-- ´´Bootstrap 5´´
+- GitHub
+- HTML 5
+- Bootstrap 5
 
 ## Fontes Consultadas/Conteúdos estudados
 
