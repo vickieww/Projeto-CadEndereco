@@ -32,7 +32,7 @@ Este projeto se trata de uma pagina para cadastro de endereço onde através so 
 
 ## Fontes Consultadas/Conteúdos estudados
 
--* [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays)
+ * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays)
  * [Bootstrap 5](https://getbootstrap.com/docs/5.3/forms/layout/)
  * [Alura](https://cursos.alura.com.br/forum/topico-array-130461)
 - RegExpal
