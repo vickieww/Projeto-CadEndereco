@@ -8,6 +8,7 @@
 
 [Tecnologias Utilizadas](https://github.com/vickieww/Projeto-CadEndereco/blob/main/README.md#tecnologias-utilizadas)
 
+[Fontes Consultadas/Conteúdos estudados](https://github.com/vickieww/Projeto-CadEndereco#fontes-consultadasconte%C3%BAdos-estudados)
 
 ## Descrição  
 
