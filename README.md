@@ -1,5 +1,7 @@
 # Projeto-CadEndereco
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 ## Índice
 
 [Descrição](https://github.com/vickieww/Projeto-CadEndereco/blob/main/README.md#descri%C3%A7%C3%A3o)
@@ -17,6 +19,11 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 ### Código do Bootstrap
 
 ## 
+
+## 🔧 Funcionalidades
+
+
+Este projeto se trata de uma pagina para cadastro de endereço onde através so CEP puxa endereço, também sendo uma página responsiva que se adapta a qualquer tipo de tela.
 
 ## Tecnologias Utilizadas
 - GitHub
