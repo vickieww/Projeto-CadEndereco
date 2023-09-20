@@ -15,11 +15,10 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 
 ## Fontes Consultadas/Conteúdos estudados
 
--* https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays
- * [Bootstrap](https://getbootstrap.com/docs/5.3/forms/layout/)
- * https://cursos.alura.com.br/forum/topico-array-130461
-- ´´Bootstrap 5´´
-- ´´RegExpal´´
+-* [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays)
+ * [Bootstrap 5](https://getbootstrap.com/docs/5.3/forms/layout/)
+ * [Alura](https://cursos.alura.com.br/forum/topico-array-130461)
+- RegExpal
 
 ## Autores
 
