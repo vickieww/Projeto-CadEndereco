@@ -28,15 +28,20 @@ Este projeto se trata de uma pagina para cadastro de endereço onde através so 
 - GitHub
 - HTML 5
 - Bootstrap 5
+- JavaScript
 
 ## Fontes Consultadas/Conteúdos estudados
 
  * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays)
  * [Bootstrap 5](https://getbootstrap.com/docs/5.3/forms/layout/)
  * [Alura](https://cursos.alura.com.br/forum/topico-array-130461)
-- RegExpal
+ * [RegExpal](https://www.regexpal.com/)
 
 ## Autores
+
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/127847857?v=4" width=115><br><sub>Vitória Gabrieli </sub>](https://github.com/vickieww) | 
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha </sub>](https://github.com/LeonardoRochaMarista) |
+| :---: | :---: | :---: |
 
 Vitória Gabrieli   
 [Acesse o GitHub](https://github.com/vickieww) 
