@@ -22,6 +22,11 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 ## 🔧 Funcionalidades
 
 
+
+- `Consulta de CEP`: o site, através das funções aplicadas no JavaScript, realiza uma busca de endereço com o número do CEP inserido pelo usuário.
+  
+- `Funcionalidade 3`: descrição da funcionalidade 3
+  
 Este projeto se trata de uma pagina para cadastro de endereço onde através so CEP puxa endereço, também sendo uma página responsiva que se adapta a qualquer tipo de tela.
 
 ## Tecnologias Utilizadas
