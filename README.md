@@ -4,13 +4,20 @@
 
 ## Índice
 
+[Projeto](https://github.com/vickieww/Projeto-CadEndereco#projeto)
+
 [Descrição](https://github.com/vickieww/Projeto-CadEndereco/blob/main/README.md#descri%C3%A7%C3%A3o)
 
-[Código do Bootstrap](https://github.com/vickieww/Projeto-CadEndereco/blob/main/README.md#c%C3%B3digo-do-bootstrap)
+[Orientações](https://github.com/vickieww/Projeto-CadEndereco#orienta%C3%A7%C3%B5es)
+
+[Funcionalidades](https://github.com/vickieww/Projeto-CadEndereco#-funcionalidades)
 
 [Tecnologias Utilizadas](https://github.com/vickieww/Projeto-CadEndereco/blob/main/README.md#tecnologias-utilizadas)
 
 [Fontes Consultadas/Conteúdos estudados](https://github.com/vickieww/Projeto-CadEndereco#fontes-consultadasconte%C3%BAdos-estudados)
+
+[Autores](https://github.com/vickieww/Projeto-CadEndereco#autores)
+
 
 ## Projeto
 
