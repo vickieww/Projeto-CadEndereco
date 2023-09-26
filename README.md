@@ -14,17 +14,28 @@
 
 ## Projeto
 
-![img](img/telaEnd)
+![img](imgs\telaEnd.png)
+
 
 ## Descrição  
 
-Projeto criado durante a aula de Programação Web 1 para a facção de um site de cadastro e confirmação de CEP e endereço que utilizando Bootstrap. Fizemos a tradução e a modificação de acordo com os requisitos necessários para o nosso projeto. Segue a documentação das aulas e programas utilizados no projeto:
+Projeto criado durante a aula de Programação Web 1 para a facção de um site de cadastro e confirmação de CEP e endereço que utilizando Bootstrap. Fizemos a tradução e a modificação de acordo com os requisitos necessários para o nosso projeto. 
 
-### Código do Bootstrap
+## Orientações
 
-Código reatirado do site BootsTrap 
+
+
+
+- `Bootstrap`: Código retirado do site BootsTrap e adaptado conforme os requisitos do site. 
  
- ![gif](imgs/telaBootstrap.gif)
+ ![gif](imgs/telaBootstrap.gif)  
+
+
+
+- `JavaScript`: Criamos um código de verificação e alteração dos campos.
+
+- `Alterações no HTML`: alteramos o código HTML como os campos col-, form, div e outros conforme as necessidades do site como.
+ 
 
 ## 🔧 Funcionalidades
 
