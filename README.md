@@ -12,11 +12,17 @@
 
 [Fontes Consultadas/Conteúdos estudados](https://github.com/vickieww/Projeto-CadEndereco#fontes-consultadasconte%C3%BAdos-estudados)
 
+## Projeto
+
+![img](img/telaEnd)
+
 ## Descrição  
 
 Projeto criado durante a aula de Programação Web 1 para a facção de um site de cadastro e confirmação de CEP e endereço que utilizando Bootstrap. Fizemos a tradução e a modificação de acordo com os requisitos necessários para o nosso projeto. Segue a documentação das aulas e programas utilizados no projeto:
 
 ### Código do Bootstrap
+
+Código reatirado do site BootsTrap 
  
  ![gif](imgs/telaBootstrap.gif)
 
@@ -26,9 +32,11 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 
 - `Consulta de CEP`: o site, através das funções aplicadas no JavaScript, realiza uma busca de endereço com o número do CEP inserido pelo usuário.
   
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Limpar campos preenchidos`: utiliza a Arrow Function e o método test que executa uma busca por uma correspondência entre uma expressão regular e uma string para limpar os campos preenchidos incorretamente ou com número inválido de caracteres.
+
+- `Tela adaptável`: a tela se adapta a diversos dispositivos conforme o site do bootstrap.
   
-Este projeto se trata de uma pagina para cadastro de endereço onde através so CEP puxa endereço, também sendo uma página responsiva que se adapta a qualquer tipo de tela.
+
 
 ## Tecnologias Utilizadas
 - GitHub
