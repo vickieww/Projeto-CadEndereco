@@ -41,7 +41,7 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 
 - `JavaScript`: Criamos um código de verificação e alteração dos campos.
 
-- `Alterações no HTML`: alteramos o código HTML como os campos col-, form, div e outros conforme as necessidades do site como.
+- `Alterações no HTML`: alteramos o código HTML como os campos col-, form, div e outros conforme as necessidades do site.
  
 
 ## 🔧 Funcionalidades
@@ -50,7 +50,9 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 
 - `Consulta de CEP`: o site, através das funções aplicadas no JavaScript, realiza uma busca de endereço com o número do CEP inserido pelo usuário.
   
-- `Limpar campos preenchidos`: utiliza a Arrow Function e o método test que executa uma busca por uma correspondência entre uma expressão regular e uma string para limpar os campos preenchidos incorretamente ou com número inválido de caracteres.
+- `Limpar campos preenchidos`: utiliza a Arrow Function e o método test que executa uma busca por uma correspondência entre uma expressão regular e uma string para limpar os campos preenchidos incorretamente, com número inválido de caracteres ou com caracteres que não são números.
+
+- `Preenche campos do formulário`: preenche o os campos restantes de rua, bairro, cidade e estado conforme o cep indicado pelo usuário. Para realizar esse preenchimento, foi utilizado as informações e o código de referência para buscar as informações dentro dos Correios. 
 
 - `Tela adaptável`: a tela se adapta a diversos dispositivos conforme o site do bootstrap.
   
