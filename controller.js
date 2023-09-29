@@ -19,3 +19,7 @@ const preencherFormulario = (endereco) => {
     document.getElementById('cidade').value = endereco.localidade;
     document.getElementById('estado').value = endereco.uf;
 }
+/*
+Função do tipo assíncrona para consumo de API
+*/
+const pesquisarcep = async
