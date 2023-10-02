@@ -42,7 +42,16 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 - `JavaScript`: Criamos um código de verificação e alteração dos campos.
 
 - `Alterações no HTML`: alteramos o código HTML como os campos col-, form, div e outros conforme as necessidades do site.
+
+- `Método Arrow`: aplicamos no JavaScript uma série de funções, como a function arrow em conjunto com o método test que executa uma busca por uma correspondência entre uma expressão regular e uma string para limpar os campos preenchidos incorretamente, com número inválido de caracteres ou com caracteres que não são números.
  
+- `Async e Fetch`: utiliza como API o código, o link/URL do site ViaCep junto ao método fetch para poder realizar a consulta no site da ViaCep com tipo de retorno json como formato/padrão de texto de resposta e retorná-lo ao usuário do nosso site. 
+
+- `hasOwnProperty`: verifica se há algum erro de consulta do site utilizado (ViaCep).
+
+- `addres`: utiliza o retorno padrão jSon para preencher os campos de formulário com as informações retiradas do site ViaCep com os métodos Async e Fetch.
+
+- `addEventListener`: aciona as funções no site ao clicar fora do campo de CEP. Permite que você configure funções a serem chamadas quando um evento específico acontece, como, por exemplo, quando um usuário clica em um botão. 
 
 ## 🔧 Funcionalidades
 
