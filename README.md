@@ -48,7 +48,7 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 
 - `hasOwnProperty`: verifica se há algum erro de consulta do site utilizado (ViaCep).
 
-- `addres`: utiliza o retorno padrão jSon para preencher os campos de formulário com as informações retiradas do site ViaCep com os métodos Async e Fetch.
+- `addres(identificador)`: utiliza o retorno padrão jSon para preencher os campos de formulário com as informações retiradas do site ViaCep com os métodos Async e Fetch.
 
 - `addEventListener`: aciona as funções no site ao clicar fora do campo de CEP. Permite que você configure funções a serem chamadas quando um evento específico acontece, como, por exemplo, quando um usuário clica em um botão. 
 
