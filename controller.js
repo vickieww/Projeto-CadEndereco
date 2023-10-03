@@ -1,7 +1,7 @@
 'use restrict'; //Modo Restrito
 
 //Limpar formulário
-const limparFormulario = (endereco) => {
+const limparFormulario = () => {
     document.getElementById('rua').value = '';
     document.getElementById('bairro').value = '';
     document.getElementById('cidade').value = '';
