@@ -1,7 +1,7 @@
 'use restrict'; //Modo Restrito
 
 //Limpar formulário
-const limparFormulario = () => {
+const limparFormulario = () =>{
     document.getElementById('rua').value = '';
     document.getElementById('bairro').value = '';
     document.getElementById('cidade').value = '';
@@ -22,7 +22,7 @@ const preencherFormulario = (endereco) => {
 /*
 Função do tipo assíncrona para consumo de API
 */
-const pesquisarcep = async() =>{
+const pesquisarCep = async() =>{
 
     limparFormulario();
 
@@ -32,18 +32,18 @@ const pesquisarcep = async() =>{
         const addres = await dados.json();
 
         if(
-            addres.hasOwnProperty('erro')
-        ){
+            addres.hasOwnProperty('erro'))
+        {
             alert('CEP não encontrado');
-        }else{
+        } else {
             preencherFormulario(addres);
         }
-    {
+    } else {
         alert('CEP incorreto');
     }
     }
 
-}
+
 
 // Adiciona um evento DOM, no input CEP
 
