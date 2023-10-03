@@ -19,16 +19,16 @@
 [Autores](https://github.com/vickieww/Projeto-CadEndereco#autores)
 
 
-## Projeto
+## 🚀 Projeto
 
 ![img](imgs/telaEnd.png)    
 
 
-## Descrição  
+## 🎁 Descrição  
 
 Projeto criado durante a aula de Programação Web 1 para a facção de um site de cadastro e confirmação de CEP e endereço utilizando Bootstrap. Fizemos a tradução e a modificação de acordo com os requisitos necessários para o nosso projeto. 
 
-## Orientações
+## ⌨️ Orientações
 
 
 
@@ -67,8 +67,19 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 - `Preenche campos do formulário`: preenche o os campos restantes de rua, bairro, cidade e estado conforme o cep indicado pelo usuário. Para realizar esse preenchimento, foi utilizado as informações e o código de referência para buscar as informações dentro dos Correios. 
 
 - `Tela adaptável`: a tela se adapta a diversos dispositivos conforme o site do bootstrap.
-  
 
+
+### 📌 Demonstração
+
+O site se utiliza das seguintes funcionalidades:
+
+- `CEP encontrado`: ao informar um CEP válido, o site consultará os dados de que correspondem ao CEP dentro da ViaCep e preencherá os campos restantes.
+
+- `CEP não encontrado`: ao informar um CEP não existente, o site informará que o CEP não foi encontrado.
+
+- `CEP inválido`: ao inserir umn número ou caractere inválido, o site retornará uma mensagem de CEP inválido.
+  
+![gif](imgs/telaJeto.gif)
 
 ## Tecnologias Utilizadas
 - GitHub
@@ -76,14 +87,15 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 - Bootstrap 5
 - JavaScript
 
-## Fontes Consultadas/Conteúdos estudados
+## 📄 Fontes Consultadas/Conteúdos estudados
 
  * [Mozilla](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/Arrays)
  * [Bootstrap 5](https://getbootstrap.com/docs/5.3/forms/layout/)
  * [Alura](https://cursos.alura.com.br/forum/topico-array-130461)
  * [RegExpal](https://www.regexpal.com/)
+ * [ViaCep](https://viacep.com.br/)
 
-## Autores
+## ✒️ Autores
 
 |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127845865?v=4" width=115><br><sub>Larissa Manrique</sub>](https://github.com/larissassk) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/127845411?v=4" width=115><br><sub>Vitória Gabrieli </sub>](https://github.com/vickieww) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/86802310?v=4" width=115><br><sub>Leonardo Rocha </sub>](https://github.com/LeonardoRochaMarista) |
 | :---: | :---: | :---: |
