@@ -38,7 +38,6 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
  ![gif](imgs/telaBootstrap.gif)  
 
 
-
 - `JavaScript`: Criamos um código de verificação e alteração dos campos.
 
 - `Alterações no HTML`: alteramos o código HTML como os campos col-, form, div e outros conforme as necessidades do site.
@@ -52,6 +51,10 @@ Projeto criado durante a aula de Programação Web 1 para a facção de um site 
 - `addres`: utiliza o retorno padrão jSon para preencher os campos de formulário com as informações retiradas do site ViaCep com os métodos Async e Fetch.
 
 - `addEventListener`: aciona as funções no site ao clicar fora do campo de CEP. Permite que você configure funções a serem chamadas quando um evento específico acontece, como, por exemplo, quando um usuário clica em um botão. 
+
+- `ViaCep`: site utilizado como API para a consulta de CEP com o padrão de linguagem jSon.
+
+![gif](imgs/viacep.gif)
 
 ## 🔧 Funcionalidades
 
