@@ -77,7 +77,7 @@ O site se utiliza das seguintes funcionalidades:
 
 - `CEP não encontrado`: ao informar um CEP não existente, o site informará que o CEP não foi encontrado.
 
-- `CEP inválido`: ao inserir umn número ou caractere inválido, o site retornará uma mensagem de CEP inválido.
+- `CEP inválido`: ao inserir um número ou caractere inválido, o site retornará uma mensagem de CEP inválido.
   
 ![gif](imgs/telaJeto.gif)
 
