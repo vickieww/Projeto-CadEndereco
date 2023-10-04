@@ -1,4 +1,4 @@
-# Projeto-CadEndereco
+# Site de Consulta de Enderaço através do CEP
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
@@ -79,7 +79,7 @@ O site se utiliza das seguintes funcionalidades:
 
 - `CEP não encontrado`: ao informar um CEP não existente, o site informará que o CEP não foi encontrado.
 
-- `CEP inválido`: ao inserir umn número ou caractere inválido, o site retornará uma mensagem de CEP inválido.
+- `CEP inválido`: ao inserir um número ou caractere inválido, o site retornará uma mensagem de CEP inválido.
   
 ![gif](imgs/telaJeto.gif)
 
