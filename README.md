@@ -83,7 +83,7 @@ O site se utiliza das seguintes funcionalidades:
   
 ![gif](imgs/telaJeto.gif)
 
-## Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 - GitHub
 - HTML 5
 - Bootstrap 5
