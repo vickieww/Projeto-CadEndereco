@@ -1,4 +1,4 @@
-# Site de Consulta de Enderaço através do CEP
+# Site de Consulta de Endereço através do CEP
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
@@ -83,7 +83,7 @@ O site se utiliza das seguintes funcionalidades:
   
 ![gif](imgs/telaJeto.gif)
 
-## Tecnologias Utilizadas
+## ⚙️ Tecnologias Utilizadas
 - GitHub
 - HTML 5
 - Bootstrap 5
